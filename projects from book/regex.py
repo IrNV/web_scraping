@@ -7,5 +7,10 @@ bsObj = BeautifulSoup(html, "html.parser")
 
 images = bsObj.findAll("img",
                        {"src": re.compile("\.\./img/gifts/img.*\.jpg")})
+
+# Находим цену всех продуктов используя функцию нахождения родителя и
+# предыдущего одноуровневого тега
 for image in images:
-    print(image["src"])
+    print("Image src:", image["src"])
+    print("Price", bsObj.find("img", {"src": image["src"]
+                                      }).parent.previous_sibling.get_text())
