@@ -11,3 +11,7 @@ for child in bsObj.find("table", {"id": "giftList"}).children:
 # Поиск одноуровневых тегов за исключением первого
 for sibling in bsObj.find("table", {"id": "giftList"}).tr.next_siblings:
     print(sibling)
+
+# Находим картинку первого товара и ищем цену
+print(bsObj.find("img", {"src": "../img/gifts/img1.jpg"
+                         }).parent.previous_sibling.get_text())
