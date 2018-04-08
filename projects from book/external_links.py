@@ -7,6 +7,8 @@ import random
 
 pages = set()
 random.seed(datetime.datetime.now())
+allExtLinks = set()
+allIntLinks = set()
 
 
 def get_internal_links(bsObj, include_url):
@@ -39,7 +41,7 @@ def split_address(address):
 
 def get_random_external_link(starting_page):
     html = urlopen(starting_page)
-    bsObj = BeautifulSoup(html)
+    bsObj = BeautifulSoup(html, "html.parser")
     external_links = get_external_links(bsObj, split_address(starting_page)[0])
     if len(external_links) == 0:
         internal_links = get_internal_links(starting_page)
@@ -53,4 +55,27 @@ def follow_external_only(starting_site):
     print("Random external link is: " + external_link)
     follow_external_only(external_link)
 
-follow_external_only("http://oreilly.com")
+
+def get_all_external_links(site_url):
+    html = urlopen(site_url)
+    bsObj = BeautifulSoup(html, "html.parser")
+    internal_links = get_internal_links(bsObj, split_address(site_url)[0])
+    external_links = get_external_links(bsObj, split_address(site_url)[0])
+    for link in external_links:
+        if link not in allExtLinks:
+            allExtLinks.add(link)
+            print(link)
+
+    for link in internal_links:
+        if link not in allIntLinks:
+            print("About to get link: " + link)
+            allIntLinks.add(link)
+            if link.split('/')[0] != "https:" and link.split('/')[0] != "http:":
+                print("Wrong url format:", link)
+                continue
+            get_all_external_links(link)
+
+
+# follow_external_only("http://oreilly.com")
+get_all_external_links("http://oreilly.com")
+
