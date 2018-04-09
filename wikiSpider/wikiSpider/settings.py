@@ -10,7 +10,7 @@
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'wikiSpider'
-
+LOG_LEVEL = 'ERROR'
 SPIDER_MODULES = ['wikiSpider.spiders']
 NEWSPIDER_MODULE = 'wikiSpider.spiders'
 
