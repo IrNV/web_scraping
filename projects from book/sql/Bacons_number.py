@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import re
 import MySQLdb
-conn = MySQLdb.connect(host='localhost', user='root', passwd="5342395", db='wikipedia', charset='utf8')
+conn = MySQLdb.connect(host='host', user='username, passwd="password", db=db', charset='utf8')
 cur = conn.cursor()
 
 
@@ -11,9 +11,9 @@ def insert_page_if_not_exists(url):
     Проверяем есть ли среди страниц данная. Если нет, то добавляем,
     если да, то возвращаем id
     """
-    cur.execute("SELECT * FROM pages WHERE url = %s", [url])
+    cur.execute("SELECT * FROM pages WHERE url = %s", (url, ))
     if cur.rowcount == 0:
-        cur.execute("INSERT INTO pages (url) VALUES (%s)", [url])
+        cur.execute("INSERT INTO pages (url) VALUES (%s)", (url, ))
         conn.commit()
         return cur.lastrowid
     else:
@@ -40,7 +40,7 @@ def get_links(page_url, recursion_level):
     на другие
     """
     global pages
-    if recursion_level > 4:
+    if recursion_level > 1:
         return
     page_id = insert_page_if_not_exists(page_url)
     html = urlopen("http://en.wikipedia.org" + page_url)
