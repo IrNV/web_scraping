@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e754b800-9742-423a-b1a5-00ab327ce053" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects from book/data_cleaning/Markov_chain.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects from book/data_cleaning/data_annotation.py" afterPath="$PROJECT_DIR$/projects from book/data_cleaning/data_annotation.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +20,7 @@
     <SUITE FILE_PATH="coverage/web_scraping$parsing_pdf.coverage" NAME="parsing_pdf Coverage Results" MODIFIED="1523981451086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/work_with_documents" />
     <SUITE FILE_PATH="coverage/web_scraping$country_IP.coverage" NAME="country_IP Coverage Results" MODIFIED="1523735819638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$external_links.coverage" NAME="external_links Coverage Results" MODIFIED="1523193739131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
-    <SUITE FILE_PATH="coverage/web_scraping$data_annotation.coverage" NAME="data_annotation Coverage Results" MODIFIED="1524255842840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/data_cleaning" />
+    <SUITE FILE_PATH="coverage/web_scraping$data_annotation.coverage" NAME="data_annotation Coverage Results" MODIFIED="1524256273901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/data_cleaning" />
     <SUITE FILE_PATH="coverage/web_scraping$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1523906178804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/email" />
     <SUITE FILE_PATH="coverage/web_scraping$download_files.coverage" NAME="download_files Coverage Results" MODIFIED="1523737064883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$json_example.coverage" NAME="json_example Coverage Results" MODIFIED="1523704216724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
@@ -40,21 +40,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bacons_number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects from book/sql/Bacons_number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="52" column="16" lean-forward="false" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-                <marker date="1523905856161" expanded="true" signature="374:393" ph="SELECT * FRO... pages" />
-                <marker date="1523905856161" expanded="true" signature="374:408" ph="SELECT * FRO... pages" />
-                <marker date="1523905856161" expanded="true" signature="374:419" ph="SELECT * FRO... pages" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects from book/work_with_documents/example.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,11 +112,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_annotation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data_annotation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects from book/data_cleaning/data_annotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="1012">
+              <caret line="52" column="25" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Markov_chain.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects from book/data_cleaning/Markov_chain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -210,6 +207,7 @@
         <option value="$PROJECT_DIR$/projects from book/data_cleaning/n-gram.py" />
         <option value="$PROJECT_DIR$/projects from book/selenium_parsing/simple_ex.py" />
         <option value="$PROJECT_DIR$/projects from book/data_cleaning/data_annotation.py" />
+        <option value="$PROJECT_DIR$/projects from book/data_cleaning/Markov_chain.py" />
       </list>
     </option>
   </component>
@@ -673,13 +671,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wikiSpider/wikiSpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects from book/base_examples/external_links.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1021,8 +1012,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects from book/data_cleaning/data_annotation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="1012">
+          <caret line="52" column="25" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects from book/data_cleaning/Markov_chain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
