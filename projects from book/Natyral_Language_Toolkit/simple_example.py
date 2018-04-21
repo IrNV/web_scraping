@@ -14,3 +14,9 @@ fourgrams = ngrams(text6, 4)
 fourgramsDist = FreqDist(fourgrams)
 # Проверяем сколько раз встречается 4-грамма farhter smelt of elderberries
 print(fourgramsDist[("father", "smelt", "of", "elderberries")])
+
+# Выведем все 4-граммы начинающиеся со слова cocount
+fourgrams = ngrams(text6, 4)
+for fourgram in fourgrams:
+    if fourgram[0] == "coconut":
+        print(fourgram)
