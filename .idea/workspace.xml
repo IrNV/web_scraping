@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e754b800-9742-423a-b1a5-00ab327ce053" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects from book/forms/simple_form.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects from book/forms/cookies.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,30 +13,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/web_scraping$python_and_sql.coverage" NAME="python_and_sql Coverage Results" MODIFIED="1523823651062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/sql" />
     <SUITE FILE_PATH="coverage/web_scraping$Bacons_number.coverage" NAME="Bacons_number Coverage Results" MODIFIED="1523905811615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/sql" />
-    <SUITE FILE_PATH="coverage/web_scraping$conda_script.coverage" NAME="conda-script Coverage Results" MODIFIED="1523196636410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Miniconda3/Scripts" />
-    <SUITE FILE_PATH="coverage/web_scraping$using_stringIO.coverage" NAME="using_stringIO Coverage Results" MODIFIED="1523980524381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/work_with_documents" />
-    <SUITE FILE_PATH="coverage/web_scraping$parsing_pdf.coverage" NAME="parsing_pdf Coverage Results" MODIFIED="1523981451086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/work_with_documents" />
     <SUITE FILE_PATH="coverage/web_scraping$country_IP.coverage" NAME="country_IP Coverage Results" MODIFIED="1523735819638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$external_links.coverage" NAME="external_links Coverage Results" MODIFIED="1523193739131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
-    <SUITE FILE_PATH="coverage/web_scraping$Markov_chain.coverage" NAME="Markov_chain Coverage Results" MODIFIED="1524258091263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/data_cleaning" />
     <SUITE FILE_PATH="coverage/web_scraping$data_annotation.coverage" NAME="data_annotation Coverage Results" MODIFIED="1524256273901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/data_cleaning" />
-    <SUITE FILE_PATH="coverage/web_scraping$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1523906178804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/email" />
     <SUITE FILE_PATH="coverage/web_scraping$download_files.coverage" NAME="download_files Coverage Results" MODIFIED="1523737064883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$simple_example.coverage" NAME="simple_example Coverage Results" MODIFIED="1524348831938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/Natyral_Language_Toolkit" />
-    <SUITE FILE_PATH="coverage/web_scraping$json_example.coverage" NAME="json_example Coverage Results" MODIFIED="1523704216724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$example.coverage" NAME="example Coverage Results" MODIFIED="1523911593090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/work_with_documents" />
-    <SUITE FILE_PATH="coverage/web_scraping$json_parsing.coverage" NAME="json_parsing Coverage Results" MODIFIED="1523703095827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$wikipedia_2.coverage" NAME="wikipedia_2 Coverage Results" MODIFIED="1523191733403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$redirect.coverage" NAME="redirect Coverage Results" MODIFIED="1524413579459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/selenium_parsing" />
-    <SUITE FILE_PATH="coverage/web_scraping$twitter.coverage" NAME="twitter Coverage Results" MODIFIED="1523308175371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/web_scraping$web_scraping_and_csv.coverage" NAME="web_scraping_and_csv Coverage Results" MODIFIED="1523739134307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$n_gram.coverage" NAME="n-gram Coverage Results" MODIFIED="1524000843328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/data_cleaning" />
     <SUITE FILE_PATH="coverage/web_scraping$wikipedia.coverage" NAME="wikipedia Coverage Results" MODIFIED="1523174049153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
     <SUITE FILE_PATH="coverage/web_scraping$parsing_docs_file.coverage" NAME="parsing_docs_file Coverage Results" MODIFIED="1523982783554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/work_with_documents" />
+    <SUITE FILE_PATH="coverage/web_scraping$python_and_sql.coverage" NAME="python_and_sql Coverage Results" MODIFIED="1523823651062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/sql" />
+    <SUITE FILE_PATH="coverage/web_scraping$conda_script.coverage" NAME="conda-script Coverage Results" MODIFIED="1523196636410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Miniconda3/Scripts" />
+    <SUITE FILE_PATH="coverage/web_scraping$using_stringIO.coverage" NAME="using_stringIO Coverage Results" MODIFIED="1523980524381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/work_with_documents" />
+    <SUITE FILE_PATH="coverage/web_scraping$parsing_pdf.coverage" NAME="parsing_pdf Coverage Results" MODIFIED="1523981451086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/work_with_documents" />
+    <SUITE FILE_PATH="coverage/web_scraping$Markov_chain.coverage" NAME="Markov_chain Coverage Results" MODIFIED="1524258091263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/data_cleaning" />
+    <SUITE FILE_PATH="coverage/web_scraping$cookies.coverage" NAME="cookies Coverage Results" MODIFIED="1524599321761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/forms" />
+    <SUITE FILE_PATH="coverage/web_scraping$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1523906178804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/email" />
+    <SUITE FILE_PATH="coverage/web_scraping$json_example.coverage" NAME="json_example Coverage Results" MODIFIED="1523704216724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
+    <SUITE FILE_PATH="coverage/web_scraping$json_parsing.coverage" NAME="json_parsing Coverage Results" MODIFIED="1523703095827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book" />
+    <SUITE FILE_PATH="coverage/web_scraping$twitter.coverage" NAME="twitter Coverage Results" MODIFIED="1523308175371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/web_scraping$simple_ex.coverage" NAME="simple_ex Coverage Results" MODIFIED="1524411520053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/selenium_parsing" />
-    <SUITE FILE_PATH="coverage/web_scraping$simple_form.coverage" NAME="simple_form Coverage Results" MODIFIED="1524598958924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/forms" />
+    <SUITE FILE_PATH="coverage/web_scraping$simple_form.coverage" NAME="simple_form Coverage Results" MODIFIED="1524599209146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects from book/forms" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -44,11 +45,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="simple_form.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simple_form.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects from book/forms/simple_form.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookies.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects from book/forms/cookies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -105,6 +116,7 @@
         <option value="$PROJECT_DIR$/projects from book/selenium_parsing/simple_ex.py" />
         <option value="$PROJECT_DIR$/projects from book/selenium_parsing/redirect.py" />
         <option value="$PROJECT_DIR$/projects from book/forms/simple_form.py" />
+        <option value="$PROJECT_DIR$/projects from book/forms/cookies.py" />
       </list>
     </option>
   </component>
@@ -198,7 +210,7 @@
       <recent name="C:\Users\1\PycharmProjects\web_scraping\wikiSpider\wikiSpider\spiders" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.simple_form">
+  <component name="RunManager" selected="Python.cookies">
     <configuration default="false" name="simple_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,24 +225,6 @@
       <module name="web_scraping" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects from book/selenium_parsing/simple_ex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Markov_chain" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects from book/data_cleaning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="web_scraping" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects from book/data_cleaning/Markov_chain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -285,6 +279,24 @@
       <module name="web_scraping" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects from book/forms/simple_form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects from book/forms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="web_scraping" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects from book/forms/cookies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -505,18 +517,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.simple_ex" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Markov_chain" />
-      <item index="2" class="java.lang.String" itemvalue="Python.simple_example" />
-      <item index="3" class="java.lang.String" itemvalue="Python.redirect" />
-      <item index="4" class="java.lang.String" itemvalue="Python.simple_form" />
+      <item index="1" class="java.lang.String" itemvalue="Python.simple_example" />
+      <item index="2" class="java.lang.String" itemvalue="Python.redirect" />
+      <item index="3" class="java.lang.String" itemvalue="Python.simple_form" />
+      <item index="4" class="java.lang.String" itemvalue="Python.cookies" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.simple_form" />
-        <item index="1" class="java.lang.String" itemvalue="Python.redirect" />
-        <item index="2" class="java.lang.String" itemvalue="Python.simple_ex" />
-        <item index="3" class="java.lang.String" itemvalue="Python.simple_example" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Markov_chain" />
+        <item index="0" class="java.lang.String" itemvalue="Python.cookies" />
+        <item index="1" class="java.lang.String" itemvalue="Python.simple_form" />
+        <item index="2" class="java.lang.String" itemvalue="Python.redirect" />
+        <item index="3" class="java.lang.String" itemvalue="Python.simple_ex" />
+        <item index="4" class="java.lang.String" itemvalue="Python.simple_example" />
       </list>
     </recent_temporary>
   </component>
@@ -568,20 +580,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wikiSpider/wikiSpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wikiSpider/wikiSpider/spiders/articleSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects from book/base_examples/BeautifulSoup_and_css.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -916,10 +914,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projects from book/forms/cookies">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects from book/forms/simple_form.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="66" lean-forward="false" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects from book/forms/cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
           <folding />
         </state>
       </provider>
