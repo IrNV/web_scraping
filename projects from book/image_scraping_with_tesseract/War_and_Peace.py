@@ -9,12 +9,8 @@ driver = webdriver.Firefox()
 driver.get("https://www.amazon.com/War-Peace-Leo-Nikolayevich-Tolstoy/dp/1427030200#reader_1427030200")
 time.sleep(2)
 
-#   Щелкаем по кнопке предпросмотра книги
-# driver.find_element_by_id("sitbLogoImg").click()
 imageList = set()
 
-#   Ждем, пока страница загрузится
-# time.sleep(5)
 #   Пока кнопка со стрелкой вправо кликабельна, переворачиваем страницу
 while "pointer" in driver.find_element_by_id("sitbReaderRightPageTurner").get_attribute("style"):
     driver.find_element_by_id("sitbReaderRightPageTurner").click()
