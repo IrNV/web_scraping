@@ -1,0 +1,3 @@
+This is some text, wnitten in Arial, that will be read by
+Tesseract Here are some symbols: !@#$%*&*()
+
